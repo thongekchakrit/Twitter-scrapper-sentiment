@@ -94,5 +94,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* **Inspiration** [LucidProgramming](https://www.youtube.com/watch?v=wlnx-7cm4Gg&t=23s) - I've studied and used Lucid codes in this program
+**Inspired by** [LucidProgramming](https://www.youtube.com/watch?v=wlnx-7cm4Gg&t=23s)
 
