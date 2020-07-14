@@ -88,8 +88,6 @@ Although this program is not 100% accurate (especially so when we are analysing 
 
 * [Chakrit Thong Ek](https://github.com/thongekchakrit)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
