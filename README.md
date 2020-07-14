@@ -1,5 +1,7 @@
 # Automated Twitter Keyword And Hashtag Sentiment Analysis
 
+![Setting Up Twitter Credentials](https://github.com/thongekchakrit/TwitAnlysis-to-csv/blob/master/images/overview.gif)
+
 More and more people are turning online to voice their opinions, whether on products, services, politics, or daily issues. To get a better picture of how the crowd is feeling, it is important to analyze their opinions. 
 
 In this project, using python, I have written a block of code that will semi-automatically scrape twitter (using your input keyword), perform sentiment analysis, and plot the sentiments values onto two graphs. The data was scrapped from Twitter using [Tweepy](http://docs.tweepy.org/en/v3.5.0/api.html), [Textblob](https://textblob.readthedocs.io/en/dev/) was used to perform sentiment analysis (lexicon method) and [Plotly](https://plotly.com/python/) was used for data visualization.
@@ -40,23 +42,22 @@ Finally, you are ready to use the program!
 
 **Step 2:** Insert Twitter authentication keys that you have obtained.
 
-![Setting Up Twitter Credentials](Settinguptwitter.png)
+![Setting Up Twitter Credentials](https://github.com/thongekchakrit/TwitAnlysis-to-csv/blob/master/images/Settinguptwitter.PNG)
 
 **Step 3:** Excecute the cell. A prompt will appear requesting for your input, insert the keyword that you wish to find and hit ENTER. 
 
 * For the keyword, you can insert one or more words, the end result is dependent on Twitter search algorithm.
 * As an example, I will be searching for the keyword 'jamus lim', a Singaporean politician who is currently a local internet sentation.
 
-
-![Insert Key word](searchtwitter.png)
+![Insert Key word](https://github.com/thongekchakrit/TwitAnlysis-to-csv/blob/master/images/searchtwitter.PNG)
 
 **Step 4:** That's all! 
 
 * The results are generated and an excel CSV file, under the name of 'Twitter_Analysis.csv' will be saved in the same folder where 'Twitter Scrapper Lexicon Analysis.ipynb' was saved under. Here are the results.
 
-![Result_1](result_1.png)
+![Result_1](https://github.com/thongekchakrit/TwitAnlysis-to-csv/blob/master/images/result_1.png)
 
-![Result_1](result_2.png)
+![Result_1](https://github.com/thongekchakrit/TwitAnlysis-to-csv/blob/master/images/result_2.png)
 
 The result is accurate to a certain extend. Singaporeans have high admiration for Jamus Lim and it was well reflected by the sentiment analysis. Out of the 34 scrapped tweets, 17 (50%) were deemed positive, 15(44%) were deemed neutral or objective and 2 (5%) were deemed negative. 
 
