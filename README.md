@@ -55,11 +55,13 @@ Finally, you are ready to use the program!
 
 **Step 4:** That's all! 
 
-* The results are generated and an excel CSV file, under the name of 'Twitter_Analysis.csv' will be saved in the same folder where 'Twitter Scrapper Lexicon Analysis.ipynb' was saved under. Here are the results.
+* The results are generated and an excel CSV file, under the name of 'Twitter_Analysis.csv' will be saved in the same folder where 'Twitter Scrapper Lexicon Analysis.ipynb' was. 
+
+* Here are the results
 
 ![Result_1](https://github.com/thongekchakrit/TwitAnlysis-to-csv/blob/master/images/result_1.png)
 
-![Result_1](https://github.com/thongekchakrit/TwitAnlysis-to-csv/blob/master/images/result_2.png)
+![Result_2](https://github.com/thongekchakrit/TwitAnlysis-to-csv/blob/master/images/result_2.png)
 
 The result is accurate to a certain extend. Singaporeans have high admiration for Jamus Lim and it was well reflected by the sentiment analysis. Out of the 34 scrapped tweets, 17 (50%) were deemed positive, 15(44%) were deemed neutral or objective and 2 (5%) were deemed negative. 
 
