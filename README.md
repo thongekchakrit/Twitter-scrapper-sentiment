@@ -1,6 +1,8 @@
 # Automated Twitter Keyword And Hashtag Sentiment Analysis
 
-![Setting Up Twitter Credentials](https://github.com/thongekchakrit/TwitAnlysis-to-csv/blob/master/images/overview.gif)
+<p align="center">
+  <img width="640" height="300" src="https://github.com/thongekchakrit/TwitAnlysis-to-csv/blob/master/images/overview.gif">
+</p>
 
 More and more people are turning online to voice their opinions, whether on products, services, politics, or daily issues. To get a better picture of how the crowd is feeling, it is important to analyze their opinions. 
 
