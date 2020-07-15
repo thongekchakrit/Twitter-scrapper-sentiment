@@ -44,14 +44,18 @@ Finally, you are ready to use the program!
 
 **Step 2:** Insert Twitter authentication keys that you have obtained.
 
-![Setting Up Twitter Credentials](https://github.com/thongekchakrit/TwitAnlysis-to-csv/blob/master/images/Settinguptwitterr.PNG)
+<p align="center">
+  <img width="640" height="250" src="https://github.com/thongekchakrit/TwitAnlysis-to-csv/blob/master/images/Settinguptwitterr.PNG">
+</p>
 
 **Step 3:** Excecute the cell. A prompt will appear requesting for your input, insert the keyword that you wish to find and hit ENTER. 
 
 * For the keyword, you can insert one or more words, the end result is dependent on Twitter search algorithm.
 * As an example, I will be searching for the keyword 'jamus lim', a Singaporean politician who is currently a local internet sentation.
 
-![Insert Key word](https://github.com/thongekchakrit/TwitAnlysis-to-csv/blob/master/images/searchtwitterr.PNG)
+<p align="center">
+  <img width="640" height="250" src="https://github.com/thongekchakrit/TwitAnlysis-to-csv/blob/master/images/searchtwitterr.PNG">
+</p>
 
 **Step 4:** That's all! 
 
