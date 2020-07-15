@@ -20,8 +20,8 @@ To use the program, you need to statisfy the conditions below:
 
 ```
 1. Anaconda (to get Jupyter Notebook)
-1. Jupyter Notebook (or any other python software)
-2. Twitter Developer Account (to get credential tokens)
+2. Jupyter Notebook (or any other python software)
+3. Twitter Developer Account (to get credential tokens)
 ```
 
 All are free to use and getting these tools will take about 10 minutes to do so. Once you have those tools, go ahead and open the downloaded file ‘Twitter Scrapper Lexicon Analysis.ipynb’ on your computer. 
