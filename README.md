@@ -12,7 +12,7 @@ This project incorporates the understanding of API, object-oriented programming,
 
 ## Getting Started
 
-The instructions below will help you set up the environment.
+The instructions below will help you set up the environment. To get started download the 'notebook' folder or this repository as ZIP file.
 
 ### Prerequisites
 
