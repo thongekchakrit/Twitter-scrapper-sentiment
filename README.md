@@ -6,7 +6,7 @@
 
 More and more people are turning online to voice their opinions, whether on products, services, politics, or daily issues. To get a better picture of how the crowd is feeling, it is important to analyze their opinions. 
 
-In this project, using python, I have written a block of code that will semi-automatically scrape twitter (using your input keyword), perform sentiment analysis, and plot the sentiments values onto two graphs. The data was scrapped from Twitter using [Tweepy](http://docs.tweepy.org/en/v3.5.0/api.html), [Textblob](https://textblob.readthedocs.io/en/dev/) was used to perform sentiment analysis (lexicon method) and [Plotly](https://plotly.com/python/) was used for data visualization.
+In this project, using python, I have written a code that will semi-automatically scrape twitter (using your input keyword), perform sentiment analysis, plot the sentiments values onto two graphs and save the scraped tweets into a CSV file. The data was scrapped from Twitter using [Tweepy](http://docs.tweepy.org/en/v3.5.0/api.html), [Textblob](https://textblob.readthedocs.io/en/dev/) was used to perform sentiment analysis (lexicon method) and [Plotly](https://plotly.com/python/) was used for data visualization.
 
 This project incorporates the understanding of API, object-oriented programming, regular expression and data visualization. I had fun making the project, especially while writing the code for automatic graph plotting!
 
