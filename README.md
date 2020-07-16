@@ -79,7 +79,7 @@ Although this program is not 100% accurate (especially so when we are analysing 
 
 ```
 1. Make a stand alone exe file using python Tkinter GUI and Pyinstaller
-2. Create a looping automatic tweet scrapper (Stream Tweets) into a database (SQLite)
+2. Make the tweets streamable, that directly goes into a database (SQLite)
 ```
 
 ## Built With
