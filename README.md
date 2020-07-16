@@ -71,7 +71,7 @@ Finally, you are ready to use the program!
 
 ![Result_2](https://github.com/thongekchakrit/TwitAnlysis-to-csv/blob/master/images/result_2.png)
 
-The result is accurate to a certain extend. Singaporeans have high admiration for Jamus Lim and it was well reflected by the sentiment analysis. Out of the 34 scrapped tweets, 17 (50%) were deemed positive, 15(44%) were deemed neutral or objective and 2 (5%) were deemed negative. 
+The result was accurate to a certain extend. Singaporeans have high admiration for Jamus Lim and it was well reflected by this analysis. Out of the 34 scrapped tweets, 17 (50%) were deemed positive, 15(44%) were deemed neutral or objective and 2 (5%) were deemed as negative. 
 
 Although this program is not 100% accurate (especially so when we are analysing tweets where people are more likely to use short forms and slangs), it does give a very rough sense of what people are feeling. You can evalute the sentiment by looking at the CSV file. 
 
