@@ -11,7 +11,7 @@ This project incorporated the understanding of API, object-oriented programming,
 
 ## Getting Started
 <p align="left">
-  <img src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&logo=github&style=for-the-badge&up_color=green&up_message=view%20now&url=https%3A%2F%2Fthongekchakrit.github.io%2F">
+  <img src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&logo=github&style=for-the-badge&up_color=green&up_message=read%20on&url=https%3A%2F%2Fthongekchakrit.github.io%2F">
    <img src="https://img.shields.io/github/languages/code-size/thongekchakrit/TwitAnlysis-to-csv?color=green&style=for-the-badge">
    <img src="https://img.shields.io/github/license/thongekchakrit/TwitAnlysis-to-csv?color=orange&style=for-the-badge">
 </p>
