@@ -73,7 +73,7 @@ Finally, you are ready to use the program!
 
 The result was accurate to a certain extend. Singaporeans have high admiration for Jamus Lim and it was well reflected by this analysis. Out of the 34 scrapped tweets, 17 (50%) were deemed positive, 15(44%) were deemed neutral or objective and 2 (5%) were deemed as negative. 
 
-Although this program is not 100% accurate (especially so when we are analysing tweets where people are more likely to use short forms and slangs), it does give a very rough sense of what people are feeling. You can evalute the sentiment by looking at the CSV file. 
+Although this program is not 100% accurate (especially so when we are analysing tweets where people are more likely to use short forms and slangs), it does give a very rough sense of what people are saying about the subject. 
 
 ### What I wish to do next
 
