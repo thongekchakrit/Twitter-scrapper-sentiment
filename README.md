@@ -1,5 +1,4 @@
 # Automated Twitter Keyword And Hashtag Sentiment Analysis
-
 <p align="center">
   <img width="640" height="300" src="https://github.com/thongekchakrit/TwitAnlysis-to-csv/blob/master/images/overview.gif">
 </p>
@@ -11,6 +10,11 @@ In this project, using python, I have written a code that will semi-automaticall
 This project incorporates the understanding of API, object-oriented programming, regular expression and data visualization. I had fun making the project, especially while writing the code for automatic graph plotting!
 
 ## Getting Started
+<p align="left">
+  <img src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&logo=github&style=for-the-badge&up_color=green&up_message=view%20now&url=https%3A%2F%2Fthongekchakrit.github.io%2F">
+   <img src="https://img.shields.io/github/languages/code-size/thongekchakrit/TwitAnlysis-to-csv?color=green&style=for-the-badge">
+   <img src="https://img.shields.io/github/license/thongekchakrit/TwitAnlysis-to-csv?color=orange&style=for-the-badge">
+</p>
 
 The instructions below will help you set up the environment. To get started download the 'notebook' folder or this repository as ZIP file.
 
